@@ -11,7 +11,8 @@ vigencia e imágenes) y guarda un archivo JSON por banco.
 
 ```bash
 pip install -r requirements.txt
-python fetch_benefits.py
+python fetch_benefits.py      # descarga todo a output/*.json (~3 min)
+python to_excel.py            # crea output/beneficios.xlsx
 ```
 
 Proyecto personal, sin relación con los bancos. Los datos pertenecen a cada banco y pueden

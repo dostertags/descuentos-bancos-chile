@@ -3,3 +3,4 @@ tenacity
 python-dateutil
 beautifulsoup4
 pytest
+openpyxl
