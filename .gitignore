@@ -1,0 +1,12 @@
+# Datos generados por el scraper (se regeneran con python fetch_benefits.py)
+output/
+data/
+errors.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
